@@ -4,3 +4,5 @@
 
 - SPA(Single Page Application) 설계하기
 - Bootstrap으로 반응형 웹사이트 구현하기
+- Netlify로 웹사이트 배포하기
+- 카카오 개발자로 서비스 공유 기능 구현하기
